@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Files
+*.csv
+*.zip
+dump_project.py
+project_dump.txt
+*.pbix
+*.abf
+__init__.py
+*.parquet
